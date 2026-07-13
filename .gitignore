@@ -52,4 +52,4 @@ $RECYCLE.BIN/
 __pycache__/
 *.py[cod]
 .venv/
-venv/
+venv/src-tauri/resources/templates/Lucky Sprint/_meter_backup_before_crop/
