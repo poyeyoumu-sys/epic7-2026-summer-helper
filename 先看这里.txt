@@ -1,0 +1,16 @@
+2026 夏活辅助 
+
+1. 第一次使用，请双击或执行：
+   powershell -ExecutionPolicy Bypass -File scripts\download-maa-runtime.ps1
+
+2. 开发运行：
+   run-dev.bat
+
+3. 打包 EXE：
+   build-release.bat
+
+4. 一键检查：
+   powershell -ExecutionPolicy Bypass -File scripts\validate.ps1
+
+5. 原 Python/PySide6 工程完整保留在 legacy-python 文件夹。
+

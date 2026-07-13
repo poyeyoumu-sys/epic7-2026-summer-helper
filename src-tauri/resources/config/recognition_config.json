@@ -1,0 +1,122 @@
+{
+  "reference_resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "lucky_level_crop": {
+    "x": 69,
+    "y": 701,
+    "w": 88,
+    "h": 90
+  },
+  "min_confidence": 0.75,
+  "save_debug_images": false,
+  "save_images_on_fail": true,
+  "save_images_on_low_confidence": true,
+  "regions": {
+    "lucky_level": {
+      "x": 69,
+      "y": 701,
+      "w": 88,
+      "h": 90
+    },
+    "current_meter": {
+      "x": 909,
+      "y": 332,
+      "w": 94,
+      "h": 30
+    },
+    "shield_count": {
+      "x": 1291,
+      "y": 842,
+      "w": 133,
+      "h": 44
+    },
+    "drink_total_count": {
+      "x": 809,
+      "y": 965,
+      "w": 99,
+      "h": 40
+    },
+    "btn_run": {
+      "x": 719,
+      "y": 932,
+      "w": 487,
+      "h": 102
+    },
+    "btn_shield": {
+      "x": 1280,
+      "y": 889,
+      "w": 152,
+      "h": 150
+    },
+    "btn_boost": {
+      "x": 1482,
+      "y": 886,
+      "w": 160,
+      "h": 158
+    },
+    "btn_lucky": {
+      "x": 1686,
+      "y": 892,
+      "w": 169,
+      "h": 152
+    },
+    "btn_get_drink": {
+      "x": 68,
+      "y": 818,
+      "w": 303,
+      "h": 101
+    },
+    "howto_get_drink_page": {
+      "x": 331,
+      "y": 51,
+      "w": 1258,
+      "h": 957
+    },
+    "btn_drink_close": {
+      "x": 870,
+      "y": 1021,
+      "w": 175,
+      "h": 41
+    },
+    "get_reward_page": {
+      "x": 879,
+      "y": 231,
+      "w": 161,
+      "h": 42
+    },
+    "btn_reward_close": {
+      "x": 859,
+      "y": 754,
+      "w": 205,
+      "h": 110
+    },
+    "cutdown": {
+      "x": 716,
+      "y": 807,
+      "w": 488,
+      "h": 114
+    },
+    "btn_lucky_cancel": {
+      "x": 1660,
+      "y": 758,
+      "w": 226,
+      "h": 80
+    },
+    "btn_shield_cancel": {
+      "x": 1262,
+      "y": 756,
+      "w": 198,
+      "h": 75
+    },
+    "btn_boost_cancel": {
+      "x": 1463,
+      "y": 755,
+      "w": 194,
+      "h": 83
+    }
+  },
+  "templates": {},
+  "reference_aspect_ratio": 1.777778
+}

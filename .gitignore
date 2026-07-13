@@ -1,0 +1,55 @@
+# Node.js dependencies
+node_modules/
+
+# Frontend build output
+dist/
+.vite/
+coverage/
+
+# Rust and Tauri build output
+target/
+src-tauri/target/
+
+# Downloaded MaaFramework runtime
+src-tauri/runtime/maa/
+
+# Generated installation packages
+*.msi
+*-setup.exe
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+**/maafw.log
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDE settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary and compressed files
+*.tmp
+*.temp
+*.bak
+*.old
+*.zip
+*.rar
+*.7z
+
+# Python cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
